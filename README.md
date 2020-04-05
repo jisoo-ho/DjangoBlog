@@ -9,3 +9,10 @@
 - 작성 가능한 게시판 카테고리 추가/수정/삭제
 - 사용자(유저) 추가 및 삭제
 - 글 작성/수정/삭제(유저는 글 작성만 가능)
+
+![image1](https://user-images.githubusercontent.com/61733408/78472247-41ac2800-7772-11ea-91cd-4c400e199a38.png)
+![image2](https://user-images.githubusercontent.com/61733408/78472249-42dd5500-7772-11ea-9b82-f628aca8c244.png)
+![image3](https://user-images.githubusercontent.com/61733408/78472251-44a71880-7772-11ea-989c-95026f4aa2d5.png)
+![image4](https://user-images.githubusercontent.com/61733408/78472252-45d84580-7772-11ea-9d65-70be7628cb0d.png)
+![image5](https://user-images.githubusercontent.com/61733408/78472254-47a20900-7772-11ea-93c6-4a002a7d8930.png)
+![image6](https://user-images.githubusercontent.com/61733408/78472256-48d33600-7772-11ea-988c-97af38c11def.png)
